@@ -4,6 +4,7 @@
 > An ongoing collection of .NET language tools and frameworks, software, libraries, learning tutorials, frameworks, academic and practical resources.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
+![dotnet](https://github.com/paulveillard/cybersecurity-dotnet-security/blob/main/img/Microsoft-dotNET-logo.png)
 
 # Table of Contents
 - [Tools](#tools)
